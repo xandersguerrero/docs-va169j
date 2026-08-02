@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://staging.alcheme.vip/sitemap.xml
